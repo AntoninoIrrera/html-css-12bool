@@ -1,0 +1,47 @@
+[class*="col"]{
+    border: 1px solid black;
+    
+}
+
+[class*="col-offset"] {
+    border: none;
+}
+
+.row{
+    height: 50px;
+}
+
+
+
+
+.nero{
+    background-color: #000000;
+}
+
+.rosso{
+    background-color: #c30100;
+}
+
+.magenta{
+    background-color: #80013d;
+}
+
+.giallo{
+    background-color: #fffe42;
+}
+
+.gold{
+    background-color: #dca919;
+}
+
+.bianco{
+    background-color: #ffffff;
+}
+
+.medium-aquamarine{
+    background-color: #7ebebc;
+}
+
+.seagreen{
+    background-color: #427e80;
+}
