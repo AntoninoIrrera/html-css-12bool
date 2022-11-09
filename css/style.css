@@ -20,3 +20,35 @@
     border: none;
     padding: 0;
 }
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-end{
+    justify-content: end;
+}
+
+.height-lg{
+    height: 100px;
+}
+
+.height-sm{
+    height: 50px;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-end {
+    align-items: end;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
