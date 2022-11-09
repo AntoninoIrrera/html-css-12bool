@@ -1,3 +1,7 @@
+main{
+    text-align: center;
+}
+
 [class*="col"]{
     border: 1px solid black;
     
@@ -44,4 +48,9 @@
 
 .seagreen{
     background-color: #427e80;
+}
+
+p{
+    color: black;
+    font-size: 5rem;
 }
