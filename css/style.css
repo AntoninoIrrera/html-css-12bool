@@ -15,3 +15,8 @@
     background-color: #01e165;
     border: 1px solid #006cfa;
 }
+
+[class*="col-offset"]{
+    border: none;
+    padding: 0;
+}
