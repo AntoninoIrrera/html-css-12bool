@@ -1,5 +1,6 @@
 main{
     text-align: center;
+    background-color: rebeccapurple;
 }
 
 [class*="col"]{
@@ -51,6 +52,6 @@ main{
 }
 
 p{
-    color: black;
+    color: snow ;
     font-size: 5rem;
 }
