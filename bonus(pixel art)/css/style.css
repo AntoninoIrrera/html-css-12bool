@@ -8,9 +8,7 @@ main{
     
 }
 
-[class*="col-offset"] {
-    border: none;
-}
+
 
 .row{
     height: 60px;
